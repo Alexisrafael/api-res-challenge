@@ -1,0 +1,19 @@
+{
+  "name": "api-res-challenge",
+  "version": "1.0.0",
+  "description": "Se crea una api res para una línea de autobuses donde se podrá reservar tiquetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexisrafael/api-res-challenge.git"
+  },
+  "author": "Alexis Piña",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexisrafael/api-res-challenge/issues"
+  },
+  "homepage": "https://github.com/Alexisrafael/api-res-challenge#readme"
+}
